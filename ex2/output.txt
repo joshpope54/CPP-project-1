@@ -1,0 +1,11 @@
+The Scale is one (*) to 15 item(s).
+prince    * (2)
+deed      * (14)
+intent    * (1)
+fit       * (4)
+friends   * (10)
+banquo    *** (34)
+python     (0)
+doctor    * (8)
+cloud     * (1)
+the       *************************************************** (760)
